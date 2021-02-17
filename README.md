@@ -1,3 +1,3 @@
 # ColorLines
 
-https://theghostswithin.fr/ColorLines/
+https://pascalmaumejean.eu/ColorLines/
